@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/vvchandrahasreddy3/LEETCODE_SOLUTIONS/tree/master/0182-duplicate-emails) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/vvchandrahasreddy3/LEETCODE_SOLUTIONS/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
