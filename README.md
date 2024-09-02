@@ -17,4 +17,5 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vvchandrahasreddy3/LEETCODE_SOLUTIONS/tree/master/0009-palindrome-number) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/vvchandrahasreddy3/LEETCODE_SOLUTIONS/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
