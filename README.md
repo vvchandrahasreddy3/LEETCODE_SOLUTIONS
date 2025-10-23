@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vvchandrahasreddy3/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/vvchandrahasreddy3/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/vvchandrahasreddy3/LEETCODE_SOLUTIONS/tree/master/0136-single-number) |
 | [1603-running-sum-of-1d-array](https://github.com/vvchandrahasreddy3/LEETCODE_SOLUTIONS/tree/master/1603-running-sum-of-1d-array) |
 | [1848-sum-of-unique-elements](https://github.com/vvchandrahasreddy3/LEETCODE_SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vvchandrahasreddy3/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/vvchandrahasreddy3/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [1848-sum-of-unique-elements](https://github.com/vvchandrahasreddy3/LEETCODE_SOLUTIONS/tree/master/1848-sum-of-unique-elements) |
 ## Database
 |  |
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vvchandrahasreddy3/LEETCODE_SOLUTIONS/tree/master/0136-single-number) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vvchandrahasreddy3/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
